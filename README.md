@@ -2,6 +2,6 @@
 
 ## Week 1 Homework
 
-![refactor page](assets/images/01-html-css-git-homework-demo.png)
+[refactor page](https://jnm8787.github.io/refactor/)
 
-[screenshot](https://jnm8787.github.io/code-refactor-homework/)
+![demo](assets/images/01-html-css-git-homework-demo.png)
